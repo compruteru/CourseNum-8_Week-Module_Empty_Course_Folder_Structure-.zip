@@ -1,4 +1,6 @@
-set of empty folders for an 8-week college class, Each weeks folder has a "Screenshots" folder, and a "resources" folder, within. 
+Here is a set of empty folders for an 8-week college class, Each weeks folder has a "Screenshots" folder, and a "resources" folder, within. 
+One may unzip, and rename, the folder to their liking.
+Enjoy! 
 
 
 
